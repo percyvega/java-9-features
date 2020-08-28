@@ -7,9 +7,10 @@
     <groupId>com.percyvega</groupId>
     <artifactId>java-9-features</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <name>java-9-features</name>
-    
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>14</java.version>
