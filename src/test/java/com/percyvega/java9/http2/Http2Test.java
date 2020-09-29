@@ -1,4 +1,4 @@
-package com.percyvega.http2;
+package com.percyvega.java9.http2;
 
 import lombok.extern.log4j.Log4j2;
 import org.junit.jupiter.api.Test;
